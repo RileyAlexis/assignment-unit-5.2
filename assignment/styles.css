@@ -1,0 +1,24 @@
+body {
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
+    opacity: 0.85;
+}
+
+#mainTitle {
+    background-color: blueviolet;
+    color: antiquewhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+h2 {
+    font-size: 1.0em;
+}
+
+#mainPage {
+    background-color: lightgrey;
+    opacity: 0.75;
+    }  
